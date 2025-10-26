@@ -1,6 +1,6 @@
 # All-purpose menu
 
-** Requirements **
+**Requirements**
 * zsh
 * rofi
 * kitty
