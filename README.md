@@ -5,6 +5,8 @@
 * rofi
 * kitty
 * nvim (with Nvdash)
+* KDE Plasma
+
 
 `.rofi-launcher/rofi_menu_command.sh` is the entry point (Add a key-binding)
 
